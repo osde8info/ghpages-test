@@ -3,4 +3,4 @@ description: A minimal GitHub Pages / Jekyll site
 baseurl: "" # change if site is hosted in a subpath
 url: ""     # set to https://your-site.example when deploying
 markdown: kramdown
-theme: minima
+# theme: minima
