@@ -2,7 +2,6 @@
 layout: post
 title: "Sample Post"
 date: 2026-01-12
-categories: blog
 ---
 
 This is a sample post added to demonstrate the `_posts/` filename and front-matter conventions used by this repository.
